@@ -1,0 +1,34 @@
+body{
+    background-color: yellowgreen;
+}
+#nav{
+    background-color: #ffff00!important;
+    margin-bottom: 2em;
+}
+
+#img2{
+    content:url('../car.jpg.webp');
+    opacity: 100%;
+  }
+#img2:hover {
+    
+    transform: scale(1.2); 
+    box-shadow: 2px 2px green;
+  }
+@media (max-width:992px)
+{
+
+
+.nav-link {
+      text-align: center;
+    }
+}
+ 
+@media (min-width:992px)
+{
+  
+    .mr-auto {
+        position: absolute;
+        right: 0;
+    }
+}
