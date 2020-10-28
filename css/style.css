@@ -1,9 +1,13 @@
-
+body{
+    background-color: rgb(184, 68, 68);
+}
 #nav{
     background-color: #ffff00!important;
     margin-bottom: 2em;
 }
-
+i{
+    margin-right: 5px;
+}
 #img2{
     content:url('../car.jpg.webp');
     opacity: 90%;
