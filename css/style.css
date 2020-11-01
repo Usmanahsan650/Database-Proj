@@ -9,7 +9,7 @@ i{
     margin-right: 5px;
 }
 #img2{
-    content:url('https://www.google.com.pk/url?sa=i&url=https%3A%2F%2Fjamaica.desertcart.com%2Fproducts%2F9962702-12-2010-bugatti-veyron-grand-sport-black-w-red-cartoon-car-wall-sticker-decal-graphic-home-kids-game-room-window-art-decor&psig=AOvVaw1G-Wx4sIy29R9pvK27LqaJ&ust=1604308253903000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCkuZOA4ewCFQAAAAAdAAAAABAD');
+    content:url('../car.jpg');
     opacity: 90%;
   }
 #img2:hover {
